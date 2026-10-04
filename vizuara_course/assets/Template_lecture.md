@@ -6,7 +6,7 @@
 * [1. Core Intuition & Theory](#1-core-intuition--theory)
 * [2. Code Demonstrations](#2-code-demonstrations)
 * [3. Mathematical Concepts](#3-mathematical-concepts)
-* [4. Gotchas & Debugging](#4-gotchas--debugging)
+* [4. Debugging](#4-debugging)
 
 ---
 

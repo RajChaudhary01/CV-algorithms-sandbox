@@ -9,6 +9,10 @@
 > 
 > It serves a dual purpose: a workspace for **learning new concepts** from scratch, and a sandbox for **revising and solidifying old learnings**. My ultimate path and focus with this curriculum is directed towards **Robotic Perception and Machine Vision**.
 
+## Note on AI Usage
+
+I use AI assistants strictly to help structure my documentation. All code and implementations in this repository are written entirely by me.
+
 ## The Workflow
 
 I use Markdown (`.md`) files to take notes on high-level concepts. When a concept requires code, I write the implementations from scratch using Python (`.py`) scripts or Jupyter Notebooks alongside the notes.
@@ -67,7 +71,7 @@ flowchart LR
 
 I am actively learning concepts from the following sources (each will eventually have its own dedicated directory in this repository):
 
-* **[Vizuara: Computer Vision from Scratch](https://youtube.com/playlist?list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az)** — A modern, ground-up approach to perception systems.
-* **[First Principles of Computer Vision (Columbia University)](https://www.youtube.com/c/FirstPrinciplesofComputerVision)** — The gold standard for classical CV and mathematical intuition.
-* **[Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)** — Core foundation for CNNs, backpropagation, and modern deep learning.
-* **[Andrej Karpathy: Neural Networks Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0)** — "Under the hood" deep learning, building autograd engines and transformers from scratch.
+* **[Vizuara: Computer Vision from Scratch](https://youtube.com/playlist?list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az)** 
+* **[First Principles of Computer Vision (Columbia University)](https://www.youtube.com/c/FirstPrinciplesofComputerVision)**
+* **[Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)** 
+* **[Andrej Karpathy: Neural Networks Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0)** 
