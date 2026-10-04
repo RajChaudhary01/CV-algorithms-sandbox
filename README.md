@@ -59,7 +59,7 @@ flowchart LR
 
 | Lecture / Topic | Conceptual Flow (MD) | Code Demonstrations (.py) |
 | :--- | :--- | :--- |
-| **Lecture 01:** Introduction to CV | [`lecture_1_intro.md`](./vizuara_course/lecture_1_intro.md) | [`filters_demo.py`](./vizuara_course/filters_demo.py) |
+| **Lecture 01:** Introduction to CV | [`Lecture1_intro.md`](./vizuara_course/Lecture1_intro.md) | [`filters_demo.py`](./vizuara_course/filters_demo.py) |
 | **Lecture 02:** ... | | |
 | **Lecture 03:** ... | | |
 
