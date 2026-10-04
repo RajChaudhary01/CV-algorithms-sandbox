@@ -6,7 +6,7 @@
 * [1. Core Intuition & Theory](#1-core-intuition--theory)
 * [2. Code Demonstrations](#2-code-demonstrations)
 * [3. Mathematical Concepts](#3-mathematical-concepts)
-* [4. Debugging](#4-debugging)
+
 
 ---
 
@@ -15,15 +15,13 @@
 > *Example: "Why do I use HSV instead of RGB? Because RGB mixes lighting and color, while HSV separates them."*
 
 ## 2. Code Demonstrations
-Below, I will link the Python scripts I write for this lecture, along with a screenshot of the output. 
+Below, I will link the Jupyter Notebooks I write for this lecture, along with a screenshot of the output. 
 
-* 👉 [Script Name (`script_name.py`)](./script_name.py)
+* 👉 [Notebook Name (`notebook_name.ipynb`)](./notebook_name.ipynb)
 * **Visual Output:**
   *(Insert a screenshot or GIF of my code running here)*
 
 ## 3. Mathematical Concepts
 I will use this section to break down any mathematical formulas covered in the lecture (like the Sobel operator matrix, Convolution math, or a Loss function).
 
-## 4. Debugging
-Here, I will document the things that break during my implementation and how I fix them. This will serve as a personal knowledge base for future reference.
-* *Example: I spent 2 hours figuring out that OpenCV loads images as BGR, but PyTorch expects RGB. I used `cv2.cvtColor(img, cv2.COLOR_BGR2RGB)` to fix it.*
+

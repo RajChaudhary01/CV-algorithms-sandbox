@@ -15,7 +15,7 @@ I use AI assistants strictly to help structure my documentation. All code and im
 
 ## The Workflow
 
-I use Markdown (`.md`) files to take notes on high-level concepts. When a concept requires code, I write the implementations from scratch using Python (`.py`) scripts or Jupyter Notebooks alongside the notes.
+I use Markdown (`.md`) files to take notes on high-level concepts. When a concept requires code, I write the implementations from scratch using Jupyter Notebooks (`.ipynb`) alongside the notes.
 
 ## Curriculum Architecture
 
@@ -57,9 +57,9 @@ flowchart LR
 
 ### Course Progress & Code Implementations
 
-| Lecture / Topic | Conceptual Flow (MD) | Code Demonstrations (.py) |
+| Lecture / Topic | Conceptual Flow (MD) | Code Demonstrations (.ipynb) |
 | :--- | :--- | :--- |
-| **Lecture 01:** Introduction to CV | [`Lecture1_intro.md`](./vizuara_course/Lecture1_intro.md) | [`filters_demo.py`](./vizuara_course/filters_demo.py) |
+| **Lecture 01:** Introduction to CV | [`Lecture1_intro.md`](./vizuara_course/Lecture1_intro.md) | [`filters_demo_L1.ipynb`](./vizuara_course/codes/filters_demo_L1.ipynb) |
 | **Lecture 02:** ... | | |
 | **Lecture 03:** ... | | |
 
